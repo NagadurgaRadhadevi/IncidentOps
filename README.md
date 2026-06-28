@@ -20,7 +20,6 @@ The application automatically:
 
 # 📷 Dashboard
 
-> Add screenshots here after uploading them.
 
 ## Dashboard
 
