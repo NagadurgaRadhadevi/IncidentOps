@@ -22,13 +22,13 @@ The application automatically:
 
 > Add screenshots here after uploading them.
 
-### Dashboard
+## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
-### Swagger API
+## Swagger API
 
-![Swagger](screenshots/swagger.png)
+![Swagger](screenshots/Swagger.png)
 
 ---
 
